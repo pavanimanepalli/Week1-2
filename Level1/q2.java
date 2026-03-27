@@ -7,6 +7,6 @@ public class q2 {
 
         double average = (maths + physics + chemistry) / 3.0;
 
-        System.out.println("Sam's average mark in PCM is " + average);
+        System.out.println("Sam's average mark in PCM is " + average + "%");
     }
 }
